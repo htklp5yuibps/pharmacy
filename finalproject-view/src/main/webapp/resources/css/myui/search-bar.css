@@ -1,0 +1,21 @@
+.myui_search_bar {
+	
+	padding: 0 10px 0 10px;
+	font-size: 120%;
+	background-color: #113666;
+	color: white;
+	font-family: 'Oswald Regular', Arial, sans-serif;
+	display: flex;
+	flex-direction: column;
+	margin: 0 0 10px 0;
+}
+
+.myui_search_sub {
+	padding: 10px 0 10px 0;
+	display:flex;
+	align-items: center;
+}
+
+.myui_search_separator {
+	border: 1px solid white;
+}

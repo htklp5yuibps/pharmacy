@@ -1,0 +1,25 @@
+.myui_userbar {
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	font-family: 'Oswald Regular', Arial, sans-serif;
+	color: white;
+	font-size: 110%;
+}
+
+.myui_link {
+	padding: 5px;
+	display: block;
+}
+
+.myui_link:active {
+	color: white;
+}
+
+.myui_link:visited {
+	color: white;
+}
+
+.myui_link:hover {
+	text-decoration: none;
+}

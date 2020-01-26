@@ -1,0 +1,15 @@
+@charset "UTF-8";
+main {
+	display: flex;
+}
+
+.menu {
+	display: flex;
+	flex-direction: column;
+	max-width: 360px;
+	min-width: 300px;
+}
+
+.content {
+	flex-grow: 1;
+}
