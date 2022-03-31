@@ -15,7 +15,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <spring.version>5.1.5.RELEASE</spring.version>
+    <spring.version>5.3.18</spring.version>
     <build.version>2.3.5.SNAPSHOT</build.version>
     <build.date-time>${build.time}</build.date-time>
     <build.developer>Uladzislau_Saldatsenkau</build.developer>
